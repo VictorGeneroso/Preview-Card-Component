@@ -1,0 +1,65 @@
+*{
+    text-decoration: none;
+}
+
+div{
+    width: 200px;
+    height: 300px;
+    float: left;
+    text-align: center;
+    transform: translate(250%,70%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border-radius: 5px ;
+    padding-top:10px;
+   
+}
+
+.sedans{
+    background-color:hsl(31, 77%, 52%);
+    
+}
+
+.suvs{
+    background-color:  hsl(184, 100%, 22%);
+    
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    text-align: center;
+}
+
+button{
+    background-color: hsl(0, 0%, 95%);
+    border-radius:100px;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    border: none;
+}   
+
+h2{
+    font-family: 'Big Shoulders Display',cursive;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
+
+.button1{
+    color:hsl(31, 77%, 52%);
+}
+
+.button2{
+    color:hsl(184, 100%, 22%);
+}
+
+.button3{
+    color:hsl(179, 100%, 13%);
+}
+    
+
+
