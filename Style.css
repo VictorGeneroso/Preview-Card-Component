@@ -61,5 +61,19 @@ p{
     color:hsl(179, 100%, 13%);
 }
     
+.button11:hover{
+    background-color:hsl(10, 77%, 52%);
+    
+}
 
+.button22:hover{
+    background-color:hsl(184, 100%, 12%);
+    
+}
+.button33:hover{
+    background-color:hsl(179, 100%, 5%);
+}
 
+a:hover{
+    color: white;
+}
