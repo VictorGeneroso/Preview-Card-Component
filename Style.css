@@ -27,9 +27,9 @@ div{
 .luxury{
     background-color: hsl(179, 100%, 13%);
     text-align: center;
-}
 
-button{
+ }
+a{ 
     background-color: hsl(0, 0%, 95%);
     border-radius:100px;
     cursor:pointer;
@@ -60,20 +60,19 @@ p{
 .button3{
     color:hsl(179, 100%, 13%);
 }
-    
-.button11:hover{
+
+.button1:hover{
     background-color:hsl(10, 77%, 52%);
-    
-}
-
-.button22:hover{
-    background-color:hsl(184, 100%, 12%);
-    
-}
-.button33:hover{
-    background-color:hsl(179, 100%, 5%);
-}
-
-a:hover{
     color: white;
 }
+
+.button2:hover{
+    background-color:hsl(184, 100%, 12%);
+    color: white;
+}
+
+.button3:hover{
+    background-color:hsl(179, 100%, 5%);
+    color: white;
+}
+
